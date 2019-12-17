@@ -1,0 +1,6 @@
+2019-22-27 17:22:32.119 [main] INFO   - Opened site
+2019-25-27 17:25:08.513 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //ul[@id='main-nav']//a/span[.='PYTHON1']/..' (tried for 10 second(s) with 500 milliseconds interval)
+2019-02-07 10:02:24.618 [main] INFO   - Opened site
+2019-02-07 10:02:30.650 [main] INFO   - Clicked on Python link
+2019-02-07 10:02:30.661 [main] INFO   - Verified title
+2019-02-07 10:02:31.899 [main] INFO   - Closed site
